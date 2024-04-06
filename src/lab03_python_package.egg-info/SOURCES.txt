@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+src/lab03_python_package/__init__.py
+src/lab03_python_package.egg-info/PKG-INFO
+src/lab03_python_package.egg-info/SOURCES.txt
+src/lab03_python_package.egg-info/dependency_links.txt
+src/lab03_python_package.egg-info/requires.txt
+src/lab03_python_package.egg-info/top_level.txt
